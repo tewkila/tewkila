@@ -2,7 +2,7 @@
 </h1>
 
 <h3> About Me: </h3>
-I am an energetic and imaginative young web developer who is able to work alongside other talented IT professionals in creating websites to the very highest standards. I am an ambitious type who wants to get noticed, and has the drive and massive energy needed to really make a difference to a project.
+I am an energetic and imaginative young web developer. I am an ambitious type who wants to get noticed, and has the drive and massive energy needed to really make a difference to a project.
 I love learning new technologies and contributing to open source. Recently enjoying problem solving as well.
 
 I am currently working on something cool.  </br>
