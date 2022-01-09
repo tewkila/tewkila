@@ -15,7 +15,7 @@ I am currently working on something cool.  </br>
 
 <img src="https://media.giphy.com/media/YQMiQtopRjjZRSYRJF/giphy.gif" width="15" height="15"  />   Fun fact **I am a huge music fan!**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tewkila&show_icons=true&theme=material-palenight)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
