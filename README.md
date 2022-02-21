@@ -1,4 +1,4 @@
-<h1 align="left">Hello! I'm Tekla <img src="https://media.giphy.com/media/XYyxh0R1XilajMWB8X/giphy.gif" width="70" height="70" />
+<h1 align="left">Hello! I'm Tekla <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="60" height="60" />
 </h1>
 
 <h3> About Me: </h3>
