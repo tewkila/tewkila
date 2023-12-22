@@ -2,20 +2,8 @@
 </h1>
 
 <h3> About Me: </h3>
-An energetic and imaginative young web developer. I am an ambitious type who wants to get noticed, and has the drive and massive energy needed to really make a difference to a project.
-I love learning new technologies and contributing to open source. Recently enjoying problem solving as well.
-
-I am currently working on something cool.  </br>
-
-<img src="https://media.giphy.com/media/wnMqXoC8IPTJ5Tiauo/giphy.gif" width="15" height="15"  />   Currently learning  **Laravel**
-
-<img src="https://media.giphy.com/media/IgKx24q6hOAVTjWSB9/giphy.gif" width="15" height="15"  />   Contact me at **tewkila@gmail.com**
-
-<img src="https://media.giphy.com/media/20KOWrJlAGHb9bDhXf/giphy.gif" width="15" height="15"  />   I want to learn **React.js** in the future
-
-<img src="https://media.giphy.com/media/YQMiQtopRjjZRSYRJF/giphy.gif" width="15" height="15"  />   Fun fact **I am a huge music fan!**
-
-
+An energetic and imaginative Bachelor Student of Science in Engineering, Cybersecurity Engineering. I am an ambitious type who wants to get noticed, and has the drive and massive energy needed to really make a difference to a project.
+I love learning new technologies and contributing to open source.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
