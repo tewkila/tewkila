@@ -1,15 +1,30 @@
 <h1 align="left">Hello! I'm Tekla <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="60" height="60" />
 </h1>
 
-<h3> About Me: </h3>
-An energetic and imaginative Bachelor Student of Science in Engineering, Cybersecurity Engineering. I am an ambitious type who wants to get noticed, and has the drive and massive energy needed to really make a difference to a project.
-I love learning new technologies and contributing to open source.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tekla-berozashvili-47bb1b229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tekla berozashvili" height="30" width="40" /></a>
-</p>
+## Cybersecurity Student at Tallinn University of Technology
 
+🌍 **Location:** Tallinn, Estonia  
+🔗 **LinkedIn:** [tewkila](https://www.linkedin.com/in/tewkila)  
+✉️ **Email:** [berozashvilitekla@gmail.com](mailto:berozashvilitekla@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  </p>
+### About Me
+
+I am a Bachelor student in Cybersecurity Engineering with a strong foundation in networking, web development, and diverse technologies. I'm currently honing my skills at Tallinn University of Technology, where I am exploring the intricacies of information security and software development. I am passionate about using technology to create impactful solutions. I thrive in environments that challenge my skills and allow me to expand my knowledge.
+
+### Technical Skills
+
+- **Languages:** PHP, Java, SQL, HTML, CSS, JavaScript, XML
+- **Tools:** Git, Tera Term, Wire Shark, VS Code, Visual Studio, JetBrains IDEs, Blender, Unity
+- **Frameworks:** Laravel (PHP)
+
+### Certifications
+
+- Cisco Certified Network Associate 1 (CCNA) – Introduction to Networks
+- Google Foundations of Cybersecurity
+- IBM Data Science 101
+- New Horizons Game Development with Unity
+
+---
+
+I am always open to collaborating on projects and innovative solutions that leverage technology to address real-world problems. Feel free to connect with me here on GitHub or through my LinkedIn profile linked above.
